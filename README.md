@@ -23,7 +23,8 @@
     
     
 ###
- - [Homework 3](HomeWork_3)
+ - [Домашняя работа № 3](HomeWork_3)
+    - [Задача «Заем»](HomeWork_3/task_loan)
 
 
 
