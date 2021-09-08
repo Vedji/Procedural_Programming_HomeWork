@@ -27,4 +27,4 @@
 Ссылки:
 
  - [Сайт лектора](https://lizochekk.jimdofree.com/)
- - [Все домашнии задания](Procedural_Programming_HomeWork/ReferenceMaterial/ALL_HOMEWORKS.pdf)
+ - [Все домашнии задания](ReferenceMaterial/ALL_HOMEWORKS.pdf)
