@@ -9,15 +9,16 @@ int main() {
     int n;
     cout << "Enter n: ";
     cin >> n;
-    if(n <= 0){
+    if (n <= 0) {
         cout << "n is not natural number." << endl;
         system("Pause");
         return 0;
     }
     for (int i = n; i < n + 10; i++) {
-        if(i != n + 9){
+        if (i != n + 9) {
             cout << i << ", ";
-        }else{
+        }
+        else {
             cout << i << "." << endl;
         }
     }
