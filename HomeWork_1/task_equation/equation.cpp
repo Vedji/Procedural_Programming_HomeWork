@@ -10,7 +10,7 @@ int main()
     cout << "Enter number c: ";
     cin >> c;
     if (b != 0) {
-        cout << "x = " << -(c / b);
+        cout << "x = " << -(c / b) << endl;
     }
     else {
         cout << "Encorect c." << endl;
