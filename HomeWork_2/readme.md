@@ -1,7 +1,7 @@
 ##
 Домашнее задание № 2
 
-- [Задача «Конус».](task_cone_problem/cone_problem.cpp) \- task_cone_problem
+- [Задача «Конус».](task_truncated_cone/truncated_cone.cpp) \- task_truncated_cone
     Вычислить объем и полную поверхность усеченного конуса:
     
         π =  3.1415926535
