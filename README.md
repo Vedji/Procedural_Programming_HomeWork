@@ -13,7 +13,7 @@
 
 ###
  * [Домашняя работа № 2](HomeWork_2)
-    - [Задача «Конус»](HomeWork_2/task_cone_problem)
+    - [Задача «Конус»](HomeWork_2/task_truncated_cone)
     - [Задача «Разветвление»](HomeWork_2/task_branching)
     - [Задача «Функция»](HomeWork_2/task_function)
     - [Задача «Порядок»](HomeWork_2/task_order)
