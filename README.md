@@ -9,17 +9,9 @@
  - 
 ####
 - [Имя](HomeWork_1/task_name)
-
-####
 - [Арифметика](HomeWork_1/task_arithmetic)
-
-####
 - [Уравнение](HomeWork_1/task_equation)
-
-####
 - [Еще уравнение](HomeWork_1/task_quadratic_equation)
-
-#### 
 - [Лампа со шторой](HomeWork_1/task_lamp_with_curtain)
 
   
