@@ -1,5 +1,5 @@
 ##
-Домашнее задание № 1
+Домашние задание № 1
 
 - [Задание «Имя»](task_name/name.cpp)  \- task_name
     > Написать программу, которая выводит на экран Ваше имя.
@@ -10,12 +10,12 @@
 
 - [Задание «Уравнение»](task_equation/equation.cpp) \- task_equation
     > Для любых введенных с клавиатуры b и c решить уравнение вида
-
+    >
     > bx + c = 0
 
 - [Задание «Еще уравнение»](task_quadratic_equation/quadratic_equation.cpp) \- task_quadratic_equation
     > Для любых введенных с клавиатуры a, b и c решить уравнение вида:
-
+    >
     > ax*x + bx + c = 0
 
 - [Задание «Лампа со шторой»](task_lamp_with_curtain/lamp_with_curtain.cpp) \- task_lamp_with_curtain
