@@ -38,3 +38,5 @@
         
         y = (x * x - 2 * x + 2) / (x - 1)
     > при изменении x от -4 до +4 с шагом 0.5. 
+
+[На главную](https://github.com/Vedji/Procedural_Programming_HomeWork)
