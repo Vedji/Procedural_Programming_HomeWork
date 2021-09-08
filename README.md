@@ -6,15 +6,20 @@
 Разделы:
 ###
 * [Домашняя работа №1](HomeWork_1)
-    - [Имя](HomeWork_1/task_name)
-    - [Арифметика](HomeWork_1/task_arithmetic)
-    - [Уравнение](HomeWork_1/task_equation)
-    - [Еще уравнение](HomeWork_1/task_quadratic_equation)
-    - [Лампа со шторой](HomeWork_1/task_lamp_with_curtain)
+    - [Задание "Имя"](HomeWork_1/task_name)
+    - [Задание «Арифметика»](HomeWork_1/task_arithmetic)
+    - [Задание «Уравнение»](HomeWork_1/task_equation)
+    - [Задание «Еще уравнение»](HomeWork_1/task_quadratic_equation)
+    - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain)
 
   
 ###
- - [Homework 2](HomeWork_2)
+ * [Домашняя работа № 2](HomeWork_2)
+    - [Задача «Конус»](HomeWork_2/task_cone_problem)
+    - [Задача «Разветвление»](HomeWork_2/task_branching)
+    - [Задача «Функция»](HomeWork_2/task_function)
+    - [Задача «Порядок»](HomeWork_2/task_order)
+    - [Задача «Табуляция»](HomeWork_2/task_tabulation)
     
     
 ###
