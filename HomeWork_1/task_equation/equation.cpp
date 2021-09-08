@@ -17,4 +17,3 @@ int main()
     }
     system("pause");
 }
-© 2021 GitHub, Inc.
