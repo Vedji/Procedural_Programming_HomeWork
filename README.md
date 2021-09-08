@@ -11,7 +11,6 @@
     - [Задание «Еще уравнение»](HomeWork_1/task_quadratic_equation)
     - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain)
 
-  
 ###
  * [Домашняя работа № 2](HomeWork_2)
     - [Задача «Конус»](HomeWork_2/task_cone_problem)
@@ -20,14 +19,11 @@
     - [Задача «Порядок»](HomeWork_2/task_order)
     - [Задача «Табуляция»](HomeWork_2/task_tabulation)
     
-    
 ###
  - [Домашняя работа № 3](HomeWork_3)
     - [Задача «Заем»](HomeWork_3/task_loan)
 
-
-
 ##
 Ссылки:
 
- - [Источник с заданиями/конспектом](https://lizochekk.jimdofree.com/)
+ - [Сайт лектора](https://lizochekk.jimdofree.com/)
