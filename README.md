@@ -6,4 +6,4 @@
 ##
 Ссылки
 
- - [сайт с лекциями по процедурному программированию](https://lizochekk.jimdofree.com/)
+ - [Источник с заданиями/конспектом](https://lizochekk.jimdofree.com/)
