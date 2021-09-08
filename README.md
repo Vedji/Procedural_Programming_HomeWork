@@ -28,3 +28,4 @@
 
  - [Сайт лектора](https://lizochekk.jimdofree.com/)
  - [Все домашнии задания](ReferenceMaterial/ALL_HOMEWORKS.pdf)
+ - [Конспект](ReferenceMaterial/ABSTRACT.pdf)
