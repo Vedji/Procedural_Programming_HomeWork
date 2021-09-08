@@ -27,5 +27,5 @@
 Ссылки:
 
  - [Сайт лектора](https://lizochekk.jimdofree.com/)
- - [Все домашнии задания](ReferenceMaterial/ALL_HOMEWORKS.pdf)
- - [Конспект](ReferenceMaterial/ABSTRACT.pdf)
+ - [Все домашнии задания](ReferenceMaterial/ALL_HOMEWORKS.pdf) \-  <https://lizochekk.jimdofree.com/>
+ - [Конспект](ReferenceMaterial/ABSTRACT.pdf) \- from <https://lizochekk.jimdofree.com/>
