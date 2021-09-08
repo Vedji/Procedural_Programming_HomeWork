@@ -18,7 +18,7 @@
 
         ax*x + bx + c = 0
 
-- [Задание «Лампа со шторой»](task_lamp_with_curtain/lamp_with_curtain.cpp). \- task_lamp_with_curtain
+- [Задание «Лампа со шторой»](task_lamp_with_curtain/lamp_with_curtain.cpp) \- task_lamp_with_curtain
     > В комнате светло, если на улице день и раздвинуты шторы или если включена лампа. Ваша программа должна, в зависимости от времени суток и состояния лампы и штор, отвечать на вопрос, светло ли в комнате.
 
 - [VisualStudio Project](VisualStudio_HomeWork_1)
