@@ -35,4 +35,4 @@
 
 - [VisualStudio Project](VisualStudio_Homework_2)
 
-[На главную](https://github.com/Vedji/Procedural_Programming_HomeWork)
+[К списку всех домашних заданий](https://github.com/Vedji/Procedural_Programming_HomeWork)
