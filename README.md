@@ -1,5 +1,4 @@
-# 
-Procedural_Programming_HomeWork
+# Procedural_Programming_HomeWork
 
 ##
 Разделы:
