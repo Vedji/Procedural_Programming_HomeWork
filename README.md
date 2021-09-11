@@ -1,6 +1,5 @@
 # Procedural_Programming_HomeWork
 
-##
 Разделы:
 ###
 * [Домашняя работа №1](HomeWork_1)
