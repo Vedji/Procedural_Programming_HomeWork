@@ -1,5 +1,5 @@
-# Procedural_Programming_HomeWork
-Домашние задание по процедурному программированию в МИРЭА 1 курс 1 семестр
+# 
+Procedural_Programming_HomeWork
 
 ##
 Разделы:
