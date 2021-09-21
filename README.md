@@ -23,6 +23,13 @@
  - [Домашняя работа № 3](HomeWork_3)
     - [Задача «Заем»](HomeWork_3/task_loan)
     - [Задача «Ссуда»](HomeWork_3/task_finding_loan_interest/)
+    - [Задача «Копирование файла»](HomeWork_3/task_copy_file/)
+    - [Задача «Фильтр»](HomeWork_3/task_filter/)
+    - [Задача «Сортировка букв»](HomeWork_3/task_sorting_letters/)
+
+###
+ - [Домашняя работа № 4](HomeWork_4)
+    - [Задача "task"](HomeWork_4/task_)
 
 ##
 Ссылки:
