@@ -22,7 +22,7 @@
 ###
  - [Домашняя работа № 3](HomeWork_3)
     - [Задача «Заем»](HomeWork_3/task_loan)
-    - [Задача "Ссуда"]()
+    - [Задача «Ссуда»](HomeWork_3/task_finding_loan_interest/)
 
 ##
 Ссылки:
