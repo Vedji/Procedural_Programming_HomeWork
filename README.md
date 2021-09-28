@@ -36,7 +36,7 @@
    - [Задача «Фильтр»](HomeWork_3/task_filter/filter.cpp)
    - [Задача «Сортировка букв»](HomeWork_3/task_sorting_letters/sorting_letters.cpp)
 
-* <a name='HomeWork_4', font="Comics Sans MS">[Домашняя работа №4](HomeWork_4)</a>
+* <a name='HomeWork_4' font="Comics Sans MS">[Домашняя работа №4](HomeWork_4)</a>
    - [Задача "Файл"](HomeWork_4/task_file/file.cpp)
    - [Задача "Знак числа"](HomeWork_4/task_number_sign/number_sign.cpp)
    - [Задача "Геометрические фигуры"](HomeWork_4/task_geometric_shapes/geometric_shapes.cpp)
