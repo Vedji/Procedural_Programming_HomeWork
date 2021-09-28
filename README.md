@@ -1,6 +1,7 @@
 <h1 align=center>Procedural_Programming_HomeWork</h1>
 
 <h2 align=center>  Разделы:
+     
 <a href='#HomeWork_1'> Домашняя работа № 1</a>
      
 <a href='#HomeWork_2'> Домашняя работа № 2</a>
