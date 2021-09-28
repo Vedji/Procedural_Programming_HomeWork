@@ -33,7 +33,7 @@
  - [Домашняя работа № 4](HomeWork_4)
     - [Задача "Файл"](HomeWork_4/task_file/file.cpp)
     - [Задача "Знак числа"](HomeWork_4/task_number_sign/number_sign.cpp)
-    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_geometric_shapes/geometric_shapes.cpp)
     - [Задача "Былая слава"](HomeWork_4/task_old_glory/old_glory.cpp)
     - [Задача "task"](HomeWork_4/task_)
     - [Задача "task"](HomeWork_4/task_)
