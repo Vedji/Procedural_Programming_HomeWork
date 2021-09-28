@@ -1,3 +1,5 @@
+// задача "Синусоида"
+
 #include <iostream>
 #include <windows.h>
 #include <cmath>
