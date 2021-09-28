@@ -14,7 +14,7 @@
 <h2 align=center>Содержание:</h1>
 
 
-* <h3 name='HomeWork_1'>[Домашняя работа №1](HomeWork_1)</h3>
+* <a name='HomeWork_1'>[Домашняя работа №1](HomeWork_1)</a>
   - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
   - [Задание «Арифметика»](HomeWork_1/task_arithmetic/arithmetic.cpp)
   - [Задание «Уравнение»](HomeWork_1/task_equation/equation.cpp)
