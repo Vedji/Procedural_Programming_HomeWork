@@ -14,9 +14,8 @@
 <h2 align=center>Содержание:</h1>
 
 
-###
-* [Домашняя работа №1](HomeWork_1)
-    - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
+### * [Домашняя работа №1](HomeWork_1)
+   - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
     - [Задание «Арифметика»](HomeWork_1/task_arithmetic/arithmetic.cpp)
     - [Задание «Уравнение»](HomeWork_1/task_equation/equation.cpp)
     - [Задание «Еще уравнение»](HomeWork_1/task_quadratic_equation/quadratic_equation.cpp)
