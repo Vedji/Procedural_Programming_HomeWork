@@ -15,12 +15,12 @@
 
 
 * <h3 name='HomeWork_1'>[Домашняя работа №1](HomeWork_1)</h3>
-   - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
-   - [Задание «Арифметика»](HomeWork_1/task_arithmetic/arithmetic.cpp)
-   - [Задание «Уравнение»](HomeWork_1/task_equation/equation.cpp)
-   - [Задание «Еще уравнение»](HomeWork_1/task_quadratic_equation/quadratic_equation.cpp)
-   - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain/lamp_with_curtain.cpp)
-   - [VisualStudio Project]()
+  - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
+  - [Задание «Арифметика»](HomeWork_1/task_arithmetic/arithmetic.cpp)
+  - [Задание «Уравнение»](HomeWork_1/task_equation/equation.cpp)
+  - [Задание «Еще уравнение»](HomeWork_1/task_quadratic_equation/quadratic_equation.cpp)
+  - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain/lamp_with_curtain.cpp)
+  - [VisualStudio Project]()
 
 ### * [Домашняя работа № 2](HomeWork_2)
    - [Задача «Конус»](HomeWork_2/task_truncated_cone/truncated_cone.cpp)
