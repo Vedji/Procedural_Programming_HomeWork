@@ -1,3 +1,5 @@
+// Задача "Былая слава"
+
 #include <iostream>
 #include <windows.h>
 #include <cstdlib>
