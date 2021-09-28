@@ -35,9 +35,9 @@
     - [Задача "Знак числа"](HomeWork_4/task_number_sign/number_sign.cpp)
     - [Задача "Геометрические фигуры"](HomeWork_4/task_geometric_shapes/geometric_shapes.cpp)
     - [Задача "Былая слава"](HomeWork_4/task_old_glory/old_glory.cpp)
-    - [Задача "Синусоида"](HomeWork_4/task_)
-    - [Задача "Автоматический распознаватель"](HomeWork_4/task_)
-    - [Задача "Генерато псевдослучайных чисел"](HomeWork_4/task_)
+    - [Задача "Синусоида"](HomeWork_4/task_sin/sin.cpp)
+    - [Задача "Автоматический распознаватель"](HomeWork_4/task_/automatic_recognizer/automatic_recognizer.cpp)
+    - [Задача "Генерато псевдослучайных чисел"](HomeWork_4/task_task_generator_random_number/generator_random_number.cpp)
     - [Задача "Умножение матриц"](HomeWork_4/task_)
     - [Задача "Системы счисления"](HomeWork_4/task_)
 
