@@ -17,6 +17,8 @@
     - [Задача «Функция»](HomeWork_2/task_function/function.cpp)
     - [Задача «Порядок»](HomeWork_2/task_order/order.cpp)
     - [Задача «Табуляция»](HomeWork_2/task_tabulation/tabulation.cpp)
+   
+    ## 
     - [VisualStudio Project](HomeWork_2/VisualStudio_Homework_2)
     
 ###
@@ -29,10 +31,10 @@
 
 ###
  - [Домашняя работа № 4](HomeWork_4)
-    - [Задача "task"](HomeWork_4/task_file/file.cpp)
-    - [Задача "task"](HomeWork_4/task_number_sign/number_sign.cpp)
-    - [Задача "Былая слава"](HomeWork_4/task_old_glory/old_glory.cpp)
+    - [Задача "Файл"](HomeWork_4/task_file/file.cpp)
+    - [Задача "Знак числа"](HomeWork_4/task_number_sign/number_sign.cpp)
     - [Задача "task"](HomeWork_4/task_)
+    - [Задача "Былая слава"](HomeWork_4/task_old_glory/old_glory.cpp)
     - [Задача "task"](HomeWork_4/task_)
     - [Задача "task"](HomeWork_4/task_)
     - [Задача "task"](HomeWork_4/task_)
