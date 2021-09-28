@@ -2,7 +2,7 @@
 
 <h2 align=center>Разделы:</h1>
 
-    - (1)[1]
+    - [1][1]
 
 
 
@@ -18,8 +18,9 @@
     - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain/lamp_with_curtain.cpp)
     - [VisualStudio Project]()
 
+[1]:
 ###
-[1] * [Домашняя работа № 2](HomeWork_2)
+ * [Домашняя работа № 2](HomeWork_2)
     - [Задача «Конус»](HomeWork_2/task_truncated_cone/truncated_cone.cpp)
     - [Задача «Разветвление»](HomeWork_2/task_branching/branching.cpp)
     - [Задача «Функция»](HomeWork_2/task_function/function.cpp)
