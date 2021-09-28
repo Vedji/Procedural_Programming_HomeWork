@@ -1,6 +1,14 @@
-# Procedural_Programming_HomeWork
+<h1 align=center>Procedural_Programming_HomeWork</h1>
 
-Разделы:
+<h2 align=center>Разделы:</h1>
+
+    - (1)[1]
+
+
+
+<h2 align=center>Содержание:</h1>
+
+
 ###
 * [Домашняя работа №1](HomeWork_1)
     - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
@@ -11,14 +19,14 @@
     - [VisualStudio Project]()
 
 ###
- * [Домашняя работа № 2](HomeWork_2)
+[1] * [Домашняя работа № 2](HomeWork_2)
     - [Задача «Конус»](HomeWork_2/task_truncated_cone/truncated_cone.cpp)
     - [Задача «Разветвление»](HomeWork_2/task_branching/branching.cpp)
     - [Задача «Функция»](HomeWork_2/task_function/function.cpp)
     - [Задача «Порядок»](HomeWork_2/task_order/order.cpp)
     - [Задача «Табуляция»](HomeWork_2/task_tabulation/tabulation.cpp)
    
-    ## 
+    ####
     - [VisualStudio Project](HomeWork_2/VisualStudio_Homework_2)
     
 ###
