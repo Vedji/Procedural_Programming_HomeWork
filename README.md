@@ -30,6 +30,14 @@
 ###
  - [Домашняя работа № 4](HomeWork_4)
     - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "Былая слава"](HomeWork_4/task_old_glory)
+    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "task"](HomeWork_4/task_)
 
 ##
 Ссылки:
