@@ -33,13 +33,13 @@
  - [Домашняя работа № 4](HomeWork_4)
     - [Задача "Файл"](HomeWork_4/task_file/file.cpp)
     - [Задача "Знак числа"](HomeWork_4/task_number_sign/number_sign.cpp)
-    - [Задача "task"](HomeWork_4/task_geometric_shapes/geometric_shapes.cpp)
+    - [Задача "Геометрические фигуры"](HomeWork_4/task_geometric_shapes/geometric_shapes.cpp)
     - [Задача "Былая слава"](HomeWork_4/task_old_glory/old_glory.cpp)
-    - [Задача "task"](HomeWork_4/task_)
-    - [Задача "task"](HomeWork_4/task_)
-    - [Задача "task"](HomeWork_4/task_)
-    - [Задача "task"](HomeWork_4/task_)
-    - [Задача "task"](HomeWork_4/task_)
+    - [Задача "Синусоида"](HomeWork_4/task_)
+    - [Задача "Автоматический распознаватель"](HomeWork_4/task_)
+    - [Задача "Генерато псевдослучайных чисел"](HomeWork_4/task_)
+    - [Задача "Умножение матриц"](HomeWork_4/task_)
+    - [Задача "Системы счисления"](HomeWork_4/task_)
 
 ##
 Ссылки:
