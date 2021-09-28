@@ -4,11 +4,11 @@
 
    * [Домашняя работа №1](#HomeWork_1)
     
-   * [Домашняя работа №2][Домашняя работа № 2]
+   * [Домашняя работа №2](#HomeWork_2)
     
-   * Домашняя работа №3
+   * [Домашняя работа №3](#HomeWork_3)
     
-   * Домашняя работа №4
+   * [Домашняя работа №4](#HomeWork_4)
 
 
 <h2 align=center>Содержание:</h1>
@@ -22,21 +22,21 @@
   - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain/lamp_with_curtain.cpp)
   - [VisualStudio Project]()
 
-### * [Домашняя работа № 2](HomeWork_2)
+* <a name='HomeWork_2'>[Домашняя работа №2](HomeWork_2)</a>
    - [Задача «Конус»](HomeWork_2/task_truncated_cone/truncated_cone.cpp)
    - [Задача «Разветвление»](HomeWork_2/task_branching/branching.cpp)
    - [Задача «Функция»](HomeWork_2/task_function/function.cpp)
    - [Задача «Порядок»](HomeWork_2/task_order/order.cpp)
    - [Задача «Табуляция»](HomeWork_2/task_tabulation/tabulation.cpp)
    
-### * [Домашняя работа № 3](HomeWork_3)
+* <a name='HomeWork_3'>[Домашняя работа №3](HomeWork_3)</a>
    - [Задача «Заем»](HomeWork_3/task_loan/loan.cpp)
    - [Задача «Ссуда»](HomeWork_3/task_finding_loan_interest/finding_loan_interest.cpp)
    - [Задача «Копирование файла»](HomeWork_3/task_copy_file/copy_file.cpp)
    - [Задача «Фильтр»](HomeWork_3/task_filter/filter.cpp)
    - [Задача «Сортировка букв»](HomeWork_3/task_sorting_letters/sorting_letters.cpp)
 
-### * [Домашняя работа № 4](HomeWork_4)
+* <a name='HomeWork_4', font="Comics Sans MS">[Домашняя работа №4](HomeWork_4)</a>
    - [Задача "Файл"](HomeWork_4/task_file/file.cpp)
    - [Задача "Знак числа"](HomeWork_4/task_number_sign/number_sign.cpp)
    - [Задача "Геометрические фигуры"](HomeWork_4/task_geometric_shapes/geometric_shapes.cpp)
