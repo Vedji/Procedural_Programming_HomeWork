@@ -4,7 +4,7 @@
 ###
 * [Домашняя работа №1](HomeWork_1)
     - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
-    - [Задание «Арифметика»](HomeWork_1/task_arithmetic/arifmetic.cpp)
+    - [Задание «Арифметика»](HomeWork_1/task_arithmetic/arithmetic.cpp)
     - [Задание «Уравнение»](HomeWork_1/task_equation/equation.cpp)
     - [Задание «Еще уравнение»](HomeWork_1/task_quadratic_equation/quadratic_equation.cpp)
     - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain/lamp_with_curtain.cpp)
