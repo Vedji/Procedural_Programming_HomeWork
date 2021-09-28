@@ -2,8 +2,10 @@
 
 <h2 align=center>Разделы:</h1>
 
-    - [1][1]
-
+    - Домашняя работа №1
+    - Домашняя работа №2
+    - Домашняя работа №3
+    - Домашняя работа №4
 
 
 <h2 align=center>Содержание:</h1>
@@ -18,7 +20,6 @@
     - [Задание «Лампа со шторой»](HomeWork_1/task_lamp_with_curtain/lamp_with_curtain.cpp)
     - [VisualStudio Project]()
 
-[1]:
 ###
  * [Домашняя работа № 2](HomeWork_2)
     - [Задача «Конус»](HomeWork_2/task_truncated_cone/truncated_cone.cpp)
