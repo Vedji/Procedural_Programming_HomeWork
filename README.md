@@ -2,11 +2,8 @@
 
 <h2 align=center>  Разделы:
      <a href='#HomeWork_1'> Домашняя работа № 1</a>
-      
      <a href='#HomeWork_2'> Домашняя работа № 2</a>
-      
      <a href='#HomeWork_3'> Домашняя работа № 3</a>
-      
      <a href='#HomeWork_4'> Домашняя работа № 4</a>
 </h1>
 
