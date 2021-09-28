@@ -1,20 +1,23 @@
 <h1 align=center>Procedural_Programming_HomeWork</h1>
 
 <h2 align=center>  Разделы:
+   <ul>
 
-   <a href='#HomeWork_1' align=center> Домашняя работа № 1</a>
+      <li> <a href='#HomeWork_1' align=center> Домашняя работа № 1</a> </li>
     
-   <a href='#HomeWork_2' align=center> Домашняя работа № 2</a>
+      <li> <a href='#HomeWork_2' align=center> Домашняя работа № 2</a> </li>
     
-   <a href='#HomeWork_3' align=center> Домашняя работа № 3</a>
+      <li> <a href='#HomeWork_3' align=center> Домашняя работа № 3</a> </li>
     
-   <a href='#HomeWork_4' align=center> Домашняя работа № 4</a>
+      <li> <a href='#HomeWork_4' align=center> Домашняя работа № 4</a> </li>
+      
+   </ul>
 
 </h1>
 
 
-<h2 align=center>  Содержание:</h2>
 
+<h2 align=center>  Содержание:</h2>
 
 * <a name='HomeWork_1'>[Домашняя работа №1](HomeWork_1)</a>
   - [Задание "Имя"](HomeWork_1/task_name/name.cpp)
