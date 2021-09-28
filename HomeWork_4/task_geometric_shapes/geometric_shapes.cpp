@@ -1,4 +1,4 @@
-// Задача геометрические фигуры by Veji
+// Задача "Геометрические фигуры" by Veji
 
 #include <iostream>
 #include <windows.h>
