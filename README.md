@@ -2,13 +2,13 @@
 
 <h2 align=center>Разделы:</h1>
 
-   * [Домашняя работа №1](#HomeWork_1)
+   * <a href='#HomeWork_1' align=center>Домашняя работа № 1</a>
     
-   * [Домашняя работа №2](#HomeWork_2)
+   * <a href='#HomeWork_2' align=center>Домашняя работа № 2</a>
     
-   * [Домашняя работа №3](#HomeWork_3)
+   * <a href='#HomeWork_3' align=center>Домашняя работа № 3</a>
     
-   * [Домашняя работа №4](#HomeWork_4)
+   * <a href='#HomeWork_4' align=center>Домашняя работа № 4</a>
 
 
 <h2 align=center>Содержание:</h1>
