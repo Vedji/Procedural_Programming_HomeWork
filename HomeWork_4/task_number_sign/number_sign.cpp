@@ -1,3 +1,5 @@
+// Задача "Знак числа"
+
 #include <iostream>
 #include <string>
 using namespace std;
