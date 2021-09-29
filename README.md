@@ -44,8 +44,8 @@
    - [Задача "Синусоида"](HomeWork_4/task_sinusoid/sinusoid.cpp)
    - [Задача "Автоматический распознаватель"](HomeWork_4/task_automatic_recognizer/automatic_recognizer.cpp)
    - [Задача "Генерато псевдослучайных чисел"](HomeWork_4/task_generator_random_number/generator_random_number.cpp)
-   - [Задача "Умножение матриц"](HomeWork_4/task_)
-   - [Задача "Системы счисления"](HomeWork_4/task_)
+   - [Задача "Умножение матриц"](HomeWork_4/task_matrix_multiplication/matrix_multiplication.cpp)
+   - [Задача "Системы счисления"](HomeWork_4/task_system_number/system_number.cpp)
 
 * <a name='HomeWork_5' href='HomeWork_5'>Домашняя работа №5 </a>
    - [Задача ""](HomeWork_5/task_)
