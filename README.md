@@ -49,6 +49,13 @@
    - [Задача "Умножение матриц"](HomeWork_4/task_)
    - [Задача "Системы счисления"](HomeWork_4/task_)
 
+* <a name='HomeWork_5' href='HomeWork_5'>Домашняя работа №5 </a>
+   - [Задача ""](HomeWork_5/task_)
+   - [Задача ""](HomeWork_5/task_)
+   - [Задача ""](HomeWork_5/task_)
+   - [Задача ""](HomeWork_5/task_)
+   - [Задача ""](HomeWork_5/task_)
+
 ##
 Ссылки:
 
