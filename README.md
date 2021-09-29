@@ -57,6 +57,6 @@
 ##
 <h4 name='links'>  Ссылки:</h4>
 
- - [Сайт лектора Каширской Е. Н.](https://lizochekk.jimdofree.com/)
- - [Все домашнии задания](ReferenceMaterial/ALL_HOMEWORKS.pdf) \- copyrigt from <https://lizochekk.jimdofree.com/>
- - [Конспект](ReferenceMaterial/ABSTRACT.pdf) \- copyrigt from <https://lizochekk.jimdofree.com/>
+ - <a href='https://lizochekk.jimdofree.com/' title='Сайт лектора Каширской Е. Н.'> Сайт лектора</a>
+ - <a href='ReferenceMaterial/ALL_HOMEWORKS.pdf' title='Скопировано с сайта лектра Каширской Е. Н.'> Файл со всеми заданиями в формате pdf</a>
+ - <a href='ReferenceMaterial/ABSTRACT.pdf' title='Скопированно с сайта лектра Каширской Е. Н.'> Конспект </a>
