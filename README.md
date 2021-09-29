@@ -8,7 +8,7 @@
 - <a href='#HomeWork_4'> Домашняя работа № 4</a>   
 - <a href='#HomeWork_5'> Домашняя работа № 5 - В процессе</a>
 
-- - <a href='#links'> Ссылки</a>
+- <a href='#links'> Ссылки</a>
      
 </h1>
 
@@ -55,7 +55,7 @@
    - [Задача ""](HomeWork_5/task_)
 
 ##
-<h5 align=center name='links'>  Ссылки:</h5>
+<h4 name='links'>  Ссылки:</h4>
 
  - [Сайт лектора Каширской Е. Н.](https://lizochekk.jimdofree.com/)
  - [Все домашнии задания](ReferenceMaterial/ALL_HOMEWORKS.pdf) \- copyrigt from <https://lizochekk.jimdofree.com/>
