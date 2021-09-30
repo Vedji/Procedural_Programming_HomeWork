@@ -1,7 +1,9 @@
-// Задача ""
+// Задача "Системы счисления"
+
 #include <iostream>
 #include <string>
 using namespace std;
+
 
 int char_to_int(char symbol) {
 	switch (symbol){
@@ -45,6 +47,7 @@ int char_to_int(char symbol) {
 	return -1;
 }
 
+
 string int_to_char(int symbol) {
 	switch (symbol) {
 	case 0: return "0"; break;
@@ -87,6 +90,7 @@ string int_to_char(int symbol) {
 	return "";
 }
 
+
 double to_ten(string line, int base_num = 2, double defVal = 0, char mark = '.') {
 	bool negativity = false;
 	double num = 0;
@@ -101,12 +105,14 @@ double to_ten(string line, int base_num = 2, double defVal = 0, char mark = '.')
 	return num;
 }
 
+
 string to_ss(int num, int base_num = 2) {
 	string n = int_to_char(num % base_num);
 	if (num > 0) return to_ss(num / base_num, base_num) + n;
 	n = "";
 	return n;
 }
+
 
 int main()
 {
