@@ -4,6 +4,7 @@
 #include <string>
 using namespace std;
 
+
 int symbol_to_int(char symbol) {
 	switch (symbol){
 	case 'I': return    1; break;
@@ -16,6 +17,7 @@ int symbol_to_int(char symbol) {
 	}
 	return 0;
 }
+
 
 int main()
 {
@@ -32,7 +34,6 @@ int main()
 			cout << "Число не соответствует римской классичсекой записи." << endl;
 			return 0;
 		}
-		cout << "Number = " << number << endl;
 		int cur = symbol_to_int(line[i]);
 		if (cur == last) counter++;
 
@@ -44,9 +45,6 @@ int main()
 		last = cur;
 
 	}
-	// int cur = symbol_to_int(line[line.size() - 1]);
-	// if (cur > last) number -= ++last * counter;
-	// if (cur <= last) number += ++last * counter;
 	if (last == symbol_to_int(line[line.size() - 1])) number += symbol_to_int(line[line.size() - 1]) * counter;
 	
 	cout << "Number = " << number << endl;
