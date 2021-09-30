@@ -111,7 +111,7 @@ int main()
 	}
 	fout.close();
 	if (input_numbers == 10) {
-		cout << "Среднее число = " << (summary / input_numbers);
+		cout << "Среднее число = " << summary;
 	}
 	else {
 		cout << "В файле не 10 чисел. " << endl;
