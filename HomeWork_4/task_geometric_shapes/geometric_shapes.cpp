@@ -1,23 +1,28 @@
-// Задача "Геометрические фигуры" by Veji
+// Задача "Геометрические фигуры"
 
 #include <iostream>
 #include <windows.h>
 #include <cstdlib>
 using namespace std;
+
+
 double areaRectangle(double a, double b) {
 	if (a <= 0 || b <= 0) return -1;
 	return a * b;
 }
+
 
 double areaTrinagle(double a, double h) {
 	if (a <= 0 || h <= 0) return -1;
 	return a * h * 0.5;
 }
 
+
 double areaCircle(double r) {
 	if (r <= 0) return -1;
 	return 3.14 * pow(r, 2);
 }
+
 
 int main()
 {
