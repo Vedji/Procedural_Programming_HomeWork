@@ -4,6 +4,7 @@
 #include <string>
 using namespace std;
 
+
 bool check_line(string line) {
 	string nums = "0123456789";
 	char mark = ',';
@@ -31,6 +32,7 @@ bool check_line(string line) {
 	return false;
 
 }
+
 
 double toDouble(string line, char mark = ',') {
 	double number = 0;
@@ -73,17 +75,15 @@ double toDouble(string line, char mark = ',') {
 	}
 	if (checked_negativity == true) number *= -1;
 	return number;
-
-	// if (checked_whole_numbers && checked_dividing_mark && checked_fractional_numbers) return true;
-	// if (checked_whole_numbers && checked_dividing_mark == false && checked_fractional_numbers == false) return true;
-
 }
+
 
 int toSign(double x) {
     if (x > 0) return 1;
     if (x == 0) return 0;
     if (x < 0) return -1;
 }
+
 
 int main()
 {
@@ -99,4 +99,3 @@ int main()
 	}
     system("Pause");
 }
-
