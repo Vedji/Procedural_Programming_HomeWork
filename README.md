@@ -51,8 +51,8 @@
    - [Задание "Решето Эратосфена"](HomeWork_5/task_Sieve_Of_Eratosthenes/Sieve_Of_Eratosthenes.cpp)
    - [Задание "Обработка текстовых файлов"](HomeWork_5/task_Processing_Text_Files)
           <ol start="1" type="1">
-               <li> [Преобразование разделителей: Замена пробелов на другие(определенные) символы.](HomeWork_5/task_Processing_Text_Files/task_number_1.cpp) </li>
-               <li value = 7> []() </li>
+               <li value = 1> [Преобразование разделителей: Замена пробелов на другие(определенные) символы.](HomeWork_5/task_Processing_Text_Files/task_number_1.cpp) </li>
+               <li value = 38> [Проверка баланса скобок в текстовом файле.]((HomeWork_5/task_Processing_Text_Files/task_number_38.cpp)) </li>
           </ol>
    - [Задание "Ряды"](HomeWork_5/task_ranks)
           <ol start="1" type="1">
