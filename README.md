@@ -47,11 +47,23 @@
    - [Задача "Системы счисления"](HomeWork_4/task_system_number/system_number.cpp)
 
 * <a name='HomeWork_5' href='HomeWork_5'>Домашняя работа №5 </a>
-   - [Задача ""](HomeWork_5/task_)
-   - [Задача ""](HomeWork_5/task_)
-   - [Задача ""](HomeWork_5/task_)
-   - [Задача ""](HomeWork_5/task_)
-   - [Задача ""](HomeWork_5/task_)
+   - [Задание "Алгоритм Евклида"](HomeWork_5/task_Euclidean_Algorithm/Euclidean_Algorithm.cpp)
+   - [Задание "Решето Эратосфена"](HomeWork_5/task_Sieve_Of_Eratosthenes/Sieve_Of_Eratosthenes.cpp)
+   - [Задание "Обработка текстовых файлов"](HomeWork_5/task_Processing_Text_Files)
+        1. [Преобразование разделителей: Замена пробелов на другие(определенные) символы.](HomeWork_5/task_Processing_Text_Files/task_number_1.cpp)
+        2. []()
+        3. []()
+        4. []()
+   - [Задание "Ряды"](HomeWork_5/task_ranks)
+        1. []()
+        2. []()
+        3. []()
+        4. []()
+   - [Задание "Файлы"](HomeWork_5/task_files)
+        1. []()
+        2. []()
+        3. []()
+        4. []()
 
 ##
 <h4 name='links'>  Ссылки:</h4>
