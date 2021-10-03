@@ -66,7 +66,10 @@
      4. []()
 
 
-     1. 
+<ol start="3">
+  <li>item 3</li>
+  <li>item 4</li>
+</ol>
 
 ##
 <h4 name='links'>  Ссылки:</h4>
