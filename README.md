@@ -50,17 +50,17 @@
    - [Задание "Алгоритм Евклида"](HomeWork_5/task_Euclidean_Algorithm/Euclidean_Algorithm.cpp)
    - [Задание "Решето Эратосфена"](HomeWork_5/task_Sieve_Of_Eratosthenes/Sieve_Of_Eratosthenes.cpp)
    - [Задание "Обработка текстовых файлов"](HomeWork_5/task_Processing_Text_Files)
-          <ol start="1">
+          <ol start="1" type="1">
                <li> [Преобразование разделителей: Замена пробелов на другие(определенные) символы.](HomeWork_5/task_Processing_Text_Files/task_number_1.cpp) </li>
                <li>item 4</li>
           </ol>
    - [Задание "Ряды"](HomeWork_5/task_ranks)
-     <ol start="1">
+     <ol start="1" type="1">
           <li>item 3</li>
           <li>item 4</li>
       </ol>
    - [Задание "Файлы"](HomeWork_5/task_files)
-   <ol start="1">
+   <ol start="1" type="1">
      <li value = 7>item 1</li>
      <li>item 2</li>
    </ol>
