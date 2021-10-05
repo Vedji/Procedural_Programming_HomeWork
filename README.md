@@ -56,8 +56,9 @@
           </ol>
    - [Задание "Ряды"](HomeWork_5/task_ranks)
           <ol type="1">
-               <li value = 12>  [ Задание 12](HomeWork_5/task_ranks/task_number_12) </li>
-               <li value = 50>  [ Задание 50](HomeWork_5/task_ranks/task_number_50) </li>
+               <li value = 1>  [ Задание 1](HomeWork_5/task_ranks/task_number_1.cpp) </li>
+               <li value = 12>  [ Задание 12](HomeWork_5/task_ranks/task_number_12.cpp) </li>
+               <li value = 50>  [ Задание 50](HomeWork_5/task_ranks/task_number_50.cpp) </li>
           </ol>
    - [Задание "Файлы"](HomeWork_5/task_files)
           <ol start="1" type="1">
