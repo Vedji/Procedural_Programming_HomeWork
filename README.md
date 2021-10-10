@@ -67,7 +67,8 @@
 
 ###
 * <a name='AssignmentsAfterHomework' href='assignments_after_homework'> Задания после Домашней работы </a>
-          - [Задание Про шарики](assignments_after_homework/task_ballons/ballons.cpp)
+
+     - [Задание Про шарики](assignments_after_homework/task_ballons/ballons.cpp)
 
 
 ##
