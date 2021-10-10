@@ -58,12 +58,15 @@
           <ol type="1">
                <li value = 1>  [ Задание 1](HomeWork_5/task_Ranks/task_number_1.cpp) </li>
                <li value = 12>  [ Задание 12](HomeWork_5/task_Ranks/task_number_12.cpp) </li>
-               <li value = 50>  [ Задание 50 ](HomeWork_5/task_Ranks/task_number_50.cpp) - Не сдавалось на проверку преподавателю. </li>
+               ~~<li value = 50>  [ Задание 50 ](HomeWork_5/task_Ranks/task_number_50.cpp) </li>~~
           </ol>
    - [Задание "Файлы"](HomeWork_5/task_files)
           <ol start="1" type="1">
                <li value = 1>  [ Задание 1 ](HomeWork_5/task_files/task_number_1.cpp) </li>
           </ol>
+         
+* <a name='AssignmentsAfterHomework' href='assignments_after_homework'> Задания после Домашней работы </a>
+          - [Задание Про шарики](assignments_after_homework/task_ballons/ballons.cpp)
 
 
 ##
