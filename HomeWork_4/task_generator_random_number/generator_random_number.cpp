@@ -1,14 +1,18 @@
-// Задача "Генератов случайных чисел"
-
 #include <iostream>
 using namespace std;
 
-double gen( int m, int end_i, int c, double s = 0, int i = 0) {
-    if (i >= end_i) return ((int) (m*s + i) % c);
-    if (i != end_i) return gen(m, end_i, c, ((int)(m * s + i) % c), i + 1);
+double gen(int m, int c) {
+    static int i = 0;
+    static double last = 0;
+    cout << "i = " << i;
+    last = ((int)(m * last + i++) % c);
+    cout << ", s = " << last << endl;
+    return last;
 }
 
 int main()
 {
-    std::cout << gen(37, 3, 64);
+   while (cin.get()) {
+       gen(37, 64);
+    }
 }
