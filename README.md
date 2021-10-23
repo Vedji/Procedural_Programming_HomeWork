@@ -68,7 +68,13 @@
 ###
 * <a name='AssignmentsAfterHomework' href='assignments_after_homework'> Задания после Домашней работы </a>
 
-     - [Задание Про шарики](assignments_after_homework/task_ballons/ballons.cpp)
+     - [ Задание Про шарики ](assignments_after_homework/task_ballons/task_ballons/ballons.cpp)
+     - [ Доклад про сортировку ](assignments_after_homework/task_sorting)
+          <ol start="1" type="1">
+               <li value = 1> [ "Сортировка <Чистый код>." ](assignments_after_homework/task_sorting/sorting.cpp) </li>
+               ~~<li value = 2> [ "Сортировка с графическийм интерфейсом" ](assignments_after_homework/task_sorting/) </li>~~
+               ~~<li value = 3> [ "Презентация по сортировке" ](assignments_after_homework/task_sorting/) </li>~~
+          </ol>
 
 
 ##
