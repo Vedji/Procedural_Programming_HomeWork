@@ -8,8 +8,6 @@
 - <a href='#HomeWork_4'> Домашняя работа № 4 </a>   
 - <a href='#HomeWork_5'> Домашняя работа № 5 </a>
 - <a href='#links'> Ссылки</a>
-     
-</h1>
 
 <h2 align=center>  Содержание:</h2>
 
@@ -70,12 +68,12 @@
 
      - [ Задание Про шарики ](assignments_after_homework/task_ballons/task_ballons/ballons.cpp)
      - [ Доклад про сортировку ](assignments_after_homework/task_sorting)
-          <ol start="1" type="1">
-               <li value = 1> [ "Сортировка <Чистый код>." ](assignments_after_homework/task_sorting/sorting.cpp) </li>
-               ~~<li value = 2> [ "Сортировка с графическийм интерфейсом" ](assignments_after_homework/task_sorting/) </li>~~
-               ~~<li value = 3> [ "Презентация по сортировке" ](assignments_after_homework/task_sorting/) </li>~~
-          </ol>
-
+            <ol start="1" type="1">
+                 <li value = 1> [ "Сортировка <Чистый код>." ](assignments_after_homework/task_sorting/sorting.cpp) </li>
+                 ~~<li value = 2> [ "Сортировка с графическийм интерфейсом" ](assignments_after_homework/task_sorting/) </li>~~
+                 ~~<li value = 3> [ "Презентация по сортировке" ](assignments_after_homework/task_sorting/) </li>~~
+            </ol>
+  
 
 ##
 <h4 name='links'>  Ссылки:</h4>
