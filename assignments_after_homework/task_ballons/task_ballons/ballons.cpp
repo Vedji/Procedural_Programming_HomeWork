@@ -1,7 +1,9 @@
+// Задача про шарики
+
 #include <iostream>
 using namespace std;
 
-bool debug = false;  // Вывод в консоль всех перестановок
+bool debug = true;  // Вывод в консоль всех перестановок
 
 void PrintIntArray(int* arr, int n) {
     // Вывод в консоль всех n элементов массива arr
