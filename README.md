@@ -67,7 +67,8 @@
 * <a name='AssignmentsAfterHomework' href='assignments_after_homework'> Задания после Домашней работы </a>
 
      - [ Задание Про шарики ](assignments_after_homework/task_ballons/task_ballons/ballons.cpp)
-     - [ Задание Спиннеры ](assignments_after_homework/task_spinners/)
+     - [ Задание Спиннеры ](assignments_after_homework/task_spinners/) 
+     - [ Задание Структурные числа](assignments_after_homework/task_structural_numbers/)
      - [ Доклад про сортировку ](assignments_after_homework/task_sorting)
             <ol start="1" type="1">
                  <li value = 1> [ "Сортировка <Чистый код>." ](assignments_after_homework/task_sorting/sorting.cpp) </li>
